@@ -1,0 +1,6 @@
+{
+  "name": "BioSphere AI – Interactive 3D Human Cell Explorer",
+  "description": "Interactive AI-powered 3D human cell exploration platform with intelligent organelle explanations, division simulations, interactive activities, quizzes, and learner progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
